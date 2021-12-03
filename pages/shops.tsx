@@ -123,12 +123,12 @@ const Home: NextPage = () => {
   )
 }
 
-export const getStaticProps = () => {
-  return {
-    props: {
-      data: null,
-    },
-  }
-}
+// export const getStaticProps = () => {
+//   return {
+//     props: {
+//       data: null,
+//     },
+//   }
+// }
 
 export default Home
